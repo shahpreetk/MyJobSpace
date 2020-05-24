@@ -1,0 +1,30 @@
+.title-text {
+    font-family: 'Rubik', sans-serif;
+    color:whitesmoke;
+    text-decoration: underline;
+}
+
+.description-text {
+    font-family: 'ABeeZee', sans-serif;
+    letter-spacing: 1px;
+    text-align: center;
+}
+
+.image-header {
+  width: 45px;
+  height: 45px;
+}
+
+.last-modified-para{
+    font-size: 12px;;
+}
+
+@media only screen and (min-width: 800px) {
+    .sticky {
+        z-index: 999;
+        position: sticky;
+        width: 100%;
+        background: linear-gradient(to left, rgb(7, 99, 136), rgb(62, 11, 121));
+        top: 0;
+      }
+  }

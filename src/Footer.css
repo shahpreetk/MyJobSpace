@@ -1,0 +1,29 @@
+.bgcolour {
+    
+    margin-bottom: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background: #16171B;
+    color: white;
+  }
+
+  .social-logos {
+    text-decoration: none;
+    margin: 25px;
+  }
+
+  .github-logo,
+.instagram-logo,
+.youtube-logo {
+  margin: 10px;
+  width: 30px;
+  height: 30px;
+}
+
+a{
+    color:white;
+    text-decoration:none;
+}
