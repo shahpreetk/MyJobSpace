@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/MyJob.Space/static/css/main.55cd1130.chunk.css",
+    "main.js": "/MyJob.Space/static/js/main.dc589578.chunk.js",
+    "main.js.map": "/MyJob.Space/static/js/main.dc589578.chunk.js.map",
+    "runtime-main.js": "/MyJob.Space/static/js/runtime-main.2cd2e9ea.js",
+    "runtime-main.js.map": "/MyJob.Space/static/js/runtime-main.2cd2e9ea.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/MyJob.Space/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.4c370be1.chunk.js": "/MyJob.Space/static/js/2.4c370be1.chunk.js",
+    "static/js/2.4c370be1.chunk.js.map": "/MyJob.Space/static/js/2.4c370be1.chunk.js.map",
+    "index.html": "/MyJob.Space/index.html",
+    "precache-manifest.b049d499f9ce485c34f6604f3c041758.js": "/MyJob.Space/precache-manifest.b049d499f9ce485c34f6604f3c041758.js",
+    "service-worker.js": "/MyJob.Space/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/MyJob.Space/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.55cd1130.chunk.css.map": "/MyJob.Space/static/css/main.55cd1130.chunk.css.map",
+    "static/js/2.4c370be1.chunk.js.LICENSE.txt": "/MyJob.Space/static/js/2.4c370be1.chunk.js.LICENSE.txt",
+    "static/media/instagram.svg": "/MyJob.Space/static/media/instagram.622e2947.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2cd2e9ea.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.4c370be1.chunk.js",
+    "static/css/main.55cd1130.chunk.css",
+    "static/js/main.dc589578.chunk.js"
+  ]
+}
